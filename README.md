@@ -3,6 +3,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 First, run the development server:
+Türkçe Kurulum İçin Yazın 
+basit kurulum için öncelikle bi kaç program lazımdır node.js indirin kurun 
+2. olarak ise powershell veya terminal i açınız bilgisayarınızda sonra
+3. terminalle sitenin olduğu dosyayı gösterin o doysanın içine giriniz 
+4. ilk olarak localde çalıştırın siteyi  sonra her platform da test edebilmek için ipden erişim verin bütün aynı modeme bağlı cihazlarda testi sağlayın
 
 ```bash
 npm run dev
